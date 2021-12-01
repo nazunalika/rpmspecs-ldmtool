@@ -1,8 +1,8 @@
 %define srcname libldm
 %define sover  1_0-0
-%define major_version 0
-%define minor_version 2
-%define micro_version 5
+%define major 0
+%define minor 2
+%define micro 5
 
 Name:           ldmtool
 Version:        %{major}.%{minor}.%{micro}
