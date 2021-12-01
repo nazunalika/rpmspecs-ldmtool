@@ -13,7 +13,7 @@ Group:          System/Base
 
 URL:            https://github.com/mdbooth/libldm 
 Source0:        https://github.com/mdbooth/%{srcname}/archive/refs/tags/%{srcname}-%{version}.tar.gz
-Patch0:         Remove-deprecated-g_type_class_add_private.patch
+#Patch0:         Remove-deprecated-g_type_class_add_private.patch
 
 BuildRequires:  autoconf
 BuildRequires:  automake
