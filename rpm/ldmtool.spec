@@ -55,7 +55,7 @@ Contains libraries and header files for developing applications using
 %{srcname}.
 
 %prep
-%autosetup -p1 -n %{srcname}-%{version}
+%autosetup -p1 -n %{srcname}-%{srcname}-%{version}
 
 %build
 gtkdocize
